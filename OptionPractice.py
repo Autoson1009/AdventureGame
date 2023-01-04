@@ -19,5 +19,4 @@ while(1):
         else:
             print("Invalid command, try again")
     count += 1
-    pick = "false"
         
